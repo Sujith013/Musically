@@ -1,0 +1,82 @@
+body{
+    
+   background-color: rgb(9,9,9);
+}
+.head img{
+    width: 350px;
+    height: 150px;
+    transform: rotateY(360deg);
+}
+
+.logo2{
+    transform:rotateY(180deg);
+    margin-left: 70px;
+}
+.head p{
+    font-family:cursive;
+    font-size: 150px;
+    color:#F2AA4CFF;
+    display: inline-block;
+    margin-left: 85px;
+    margin-top: 0px;
+}
+
+.line1 img{
+    display: inline;
+   width: 300px;
+   height:250px ;
+   margin-left: 150px;
+   border-radius: 30px;
+}
+
+.line1 img:hover{
+    filter: grayscale(100%);
+    width: 320px;
+    height: 270px;
+    border-radius: 70px;
+    transition: all 700ms;
+}
+
+.line2 img{
+    display: inline;
+   width: 300px;
+   height:250px ;
+   margin-left: 150px;
+   border-radius: 30px;
+}
+
+.line2 img:hover{
+    filter: grayscale(100%);
+    width: 320px;
+    height: 270px;
+    border-radius: 70px;
+    transition: all 700ms;
+}
+
+.about{
+    font-family:cursive;
+    font-size: 20px;
+    color: rgb(250,250,250);
+    text-align: center;
+    border-style: solid;
+    border-color: indigo;
+    border-radius: 20px;
+}
+
+.guitarhead img{
+    width: 350px;
+    height:150px;
+}
+
+.guitarhead p{
+    font-family: cursive;
+    color: rgb(250,250,250);
+    font-size: 100px;
+    display: inline-block;
+}
+.gl2{
+    transform: rotateY(180deg);
+}
+.guitarhead{
+    margin-left:170px;
+}
